@@ -9,7 +9,7 @@
 
 ## Acknowledgments
 
-* <a href="https://thenounproject.com/term/slap/414681/">Palm icon</a> by Daouna Jeong
+* <a href="https://thenounproject.com/term/slap/414681/" target="_blank">Palm icon</a> by Daouna Jeong
 * 
 * 
 
