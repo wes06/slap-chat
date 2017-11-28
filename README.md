@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/wes06/slap-chat/master/Graphics/png/SlapChat-HandLogo.png" height="100px" width="100px"></img>
 
-#Slap Chat
+# Slap Chat
 
 **Outsource your aggressivity**
 
