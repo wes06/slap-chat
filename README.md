@@ -14,6 +14,6 @@ Keyboard project for Sankt Interfaces 2017 - Kunstuniversität Linz.
 
 ## Acknowledgments
 
-* <a href="https://thenounproject.com/term/slap/414681/" target="_blank">Palm icon</a> by Daouna Jeong
+* <a href="https://thenounproject.com/term/slap/414681/" target="_blank">Palm icon</a> by Daouna Jeong / Noun Project
 
 
